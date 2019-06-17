@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.ibwave.ibwavemobile.fiberpass",
+    "sha256_cert_fingerprints":
+    ["5E:B9:0D:52:4E:BA:4F:66:B1:33:48:FF:80:31:CA:24:35:EE:D7:D6:3A:93:8F:AA:89:4D:D2:57:1D:CF:81:12"]
+  }
+}]
